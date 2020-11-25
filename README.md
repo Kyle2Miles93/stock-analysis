@@ -49,19 +49,27 @@ in the refactored code than the original code.
 
 I conclude that the advantges of refactoring code are:
 
-1) **faster runtime for faster work completion
-2) **money is saved for the company because of less computing power used per run
-3) **less chance for the computer to crash because of segmentation faults and less chance of errors
+1) **faster runtime for faster work completion**
+2) **money is saved for the company because of less computing power used per run**
+3) **less chance for the computer to crash because of segmentation faults and less chance of errors**
 
 The disadvantages may include:
 
-1) **The refactored code was challenging to figure out how to make work,
-**though a more experienced programmer would probably have no problem.
-2) **The refactored code uses arrays instead of one-value variables for
-**the ticker, volumes, and starting/ending prices. This would
-**make it more finicky if the programmer was inexperienced.
+1) **The refactored code was challenging to figure out how to make work,**
+**though a more experienced programmer would probably have no problem.**
+2) **The refactored code uses arrays instead of one-value variables for**
+**the ticker, volumes, and starting/ending prices. This would**
+**make it more finicky if the programmer was inexperienced.**
 
-![Original Code]() 
+![Original Code](https://github.com/Kyle2Miles93/stock-analysis/blob/main/Original%20Code.png)
+
+![Original Code Pt. 2](https://github.com/Kyle2Miles93/stock-analysis/blob/main/Original%20code%202nd%20part.png)
+
+![Refactored code](https://github.com/Kyle2Miles93/stock-analysis/blob/main/Refactored%20Code.png)
+
+![Refactored Code Pt. 2](https://github.com/Kyle2Miles93/stock-analysis/blob/main/Refactored%20Code%202nd%20Part.png)
+
+
 
 
 
